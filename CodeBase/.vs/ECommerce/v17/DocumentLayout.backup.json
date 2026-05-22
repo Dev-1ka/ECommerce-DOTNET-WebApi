@@ -1,0 +1,1753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260519040829_DtoUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructures\\Persistence\\Migrations\\20260519040829_DtoUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260519034359_Imgurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructures\\Persistence\\Migrations\\20260519034359_Imgurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\invites\\commands\\sendinvite\\sendinvitecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\invites\\commands\\sendinvite\\sendinvitecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\invitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\invitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\queries\\getmyorders\\getmyordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\queries\\getmyorders\\getmyordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\payorder\\payordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\payorder\\payordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\checkout\\checkoutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\checkout\\checkoutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\invites\\commands\\acceptinvite\\acceptinvitecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\invites\\commands\\acceptinvite\\acceptinvitecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\auth\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\auth\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\auth\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\auth\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\auth\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\auth\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\addtocart\\addtocartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\addtocart\\addtocartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260512121120_cartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260512121120_cartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\addtocart\\addtocartcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\addtocart\\addtocartcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\addtocart\\addtocartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\addtocart\\addtocartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\queries\\getmyorders\\getmyordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\queries\\getmyorders\\getmyordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\deliverorder\\deliverordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\deliverorder\\deliverordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\deliverorder\\deliverordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\deliverorder\\deliverordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\shiporder\\shipordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\shiporder\\shipordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\shiporder\\shipordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\shiporder\\shipordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\payorder\\payordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\payorder\\payordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\checkout\\checkoutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\checkout\\checkoutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\payorder\\payordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\payorder\\payordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\orders\\commands\\checkout\\checkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\orders\\commands\\checkout\\checkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\queries\\getcartitems\\getcartitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\queries\\getcartitems\\getcartitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\queries\\getcartitems\\getcartitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\queries\\getcartitems\\getcartitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\removecartitem\\removecartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\removecartitem\\removecartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\ecommerce.web.host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\ecommerce.web.host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\invites\\commands\\acceptinvite\\acceptinvitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\invites\\commands\\acceptinvite\\acceptinvitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\updatecartitem\\updatecartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\updatecartitem\\updatecartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\common\\responsewrapper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\common\\responsewrapper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\removecartitem\\removecartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\removecartitem\\removecartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\updatecartitem\\updatecartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\updatecartitem\\updatecartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\updatecartitem\\updatecartitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\updatecartitem\\updatecartitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\cart\\commands\\removecartitem\\removecartitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\cart\\commands\\removecartitem\\removecartitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260504121346_entityupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260504121346_entityupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\inventory\\commands\\updateinventory\\updateinventorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\inventory\\commands\\updateinventory\\updateinventorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\inventory\\queries\\getinventory\\getinventoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\inventory\\queries\\getinventory\\getinventoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\inventory\\commands\\updateinventory\\updateinventorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\inventory\\commands\\updateinventory\\updateinventorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\dtos\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\dtos\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\inventory\\queries\\getinventory\\getinventoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\inventory\\queries\\getinventory\\getinventoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\dtos\\updateinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\dtos\\updateinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\dtos\\inventoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\dtos\\inventoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Infrastructures\\Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructures\\Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Core\\Application\\Interfaces\\IECommerceDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Core\\Application\\Interfaces\\IECommerceDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\ECommerceDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructures\\Infrastructure\\Services\\ECommerceDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Core\\Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Core\\Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Infrastructures\\Persistence\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructures\\Persistence\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Infrastructures\\Persistence\\ECommerceDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructures\\Persistence\\ECommerceDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Core\\Application\\DTOs\\UpdateProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Core\\Application\\DTOs\\UpdateProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Core\\Application\\DTOs\\CreateProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Core\\Application\\DTOs\\CreateProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260504100222_softdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260504100222_softdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260504080746_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260504080746_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260504043519_newtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260504043519_newtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260505035534_updatedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260505035534_updatedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260505094349_fixorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260505094349_fixorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260505081306_producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260505081306_producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260505090048_fixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260505090048_fixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260505063347_cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260505063347_cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260505062602_cartsoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260505062602_cartsoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PayOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:14:38.183Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260519040829_DtoUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260519040829_DtoUpdate.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260519040829_DtoUpdate.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260519040829_DtoUpdate.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260519040829_DtoUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:08:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv0IAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:29:31.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:00:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T04:31:23.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260519034359_Imgurl.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260519034359_Imgurl.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260519034359_Imgurl.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260519034359_Imgurl.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260519034359_Imgurl.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:43:59.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:26:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:09:59.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:37:27.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:08:16.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:26:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckoutCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandHandler.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:11:42.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:13:25.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T04:43:14.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvitesController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InvitesController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InvitesController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InvitesController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InvitesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T05:06:29.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SendInviteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Invites\\Commands\\SendInvite\\SendInviteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Invites\\Commands\\SendInvite\\SendInviteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Invites\\Commands\\SendInvite\\SendInviteCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Invites\\Commands\\SendInvite\\SendInviteCommandHandler.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv18AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T04:00:48.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T06:30:16.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetMyOrdersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQueryHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQueryHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:58:08.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:37:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:27:42.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\OrderResponseDto.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\OrderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:52:52.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:07:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:33:40.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:57:54.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:30:13.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-04T04:30:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:45:00.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AcceptInviteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommandHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T04:01:02.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:28:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductInventory.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ProductInventory.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\ProductInventory.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ProductInventory.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\ProductInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:44:49.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:49:10.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RefreshTokenCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:42:02.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:58:02.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T04:24:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:51:06.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:12:44.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddToCartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:43:43.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T04:22:35.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:59:47.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddToCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:43:30.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260512121120_cartentity.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260512121120_cartentity.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260512121120_cartentity.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260512121120_cartentity.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260512121120_cartentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:11:20.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DeliverOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:56:22.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddToCartCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\AddToCart\\AddToCartCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:14:25.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CartResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\CartResponseDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\CartResponseDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\CartResponseDto.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\CartResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:28:41.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CartItemResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\CartItemResponseDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\CartItemResponseDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\CartItemResponseDto.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\CartItemResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:28:04.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeliverOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\DeliverOrder\\DeliverOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:55:55.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetMyOrdersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQuery.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQuery.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Queries\\GetMyOrders\\GetMyOrdersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:57:34.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ShipOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:54:51.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ShipOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\ShipOrder\\ShipOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:54:30.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PayOrderCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:17:11.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CheckoutCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:16:48.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PayOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\PayOrder\\PayOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:14:18.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CheckoutCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Orders\\Commands\\Checkout\\CheckoutCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:11:15.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:34:00.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetCartItemsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:48:09.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetCartItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQuery.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQuery.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Queries\\GetCartItems\\GetCartItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:47:53.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RemoveCartItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwDEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:46:34.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ECommerce.Web.Host.csproj",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T04:17:07.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AcceptInviteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Invites\\Commands\\AcceptInvite\\AcceptInviteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T04:25:51.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20260505094349_FixOrder.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505094349_FixOrder.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260505094349_FixOrder.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505094349_FixOrder.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260505094349_FixOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:43:49.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Invite.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Invite.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Invite.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Invite.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Invite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:51:43.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:17:57.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20260505081306_ProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505081306_ProductTable.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260505081306_ProductTable.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505081306_ProductTable.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260505081306_ProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:13:06.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20260505090048_FixContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505090048_FixContext.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260505090048_FixContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505090048_FixContext.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260505090048_FixContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:00:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateCartItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:47:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GetProductsByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:30:10.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Common\\ResponseWrapper\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Common\\ResponseWrapper\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Common\\ResponseWrapper\\ApiResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Common\\ResponseWrapper\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:06:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20260505063347_Cartproduct.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505063347_Cartproduct.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260505063347_Cartproduct.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505063347_Cartproduct.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260505063347_Cartproduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:33:48.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RemoveCartItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:46:21.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UpdateCartItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:46:55.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20260505062602_CartSoftDelete.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505062602_CartSoftDelete.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260505062602_CartSoftDelete.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505062602_CartSoftDelete.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260505062602_CartSoftDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:26:02.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UpdateCartItemCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\UpdateCartItem\\UpdateCartItemCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:15:48.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RemoveCartItemCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Cart\\Commands\\RemoveCartItem\\RemoveCartItemCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:16:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:18:02.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:48:34.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20260505035534_UpdatedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505035534_UpdatedEntity.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260505035534_UpdatedEntity.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260505035534_UpdatedEntity.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260505035534_UpdatedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:55:35.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20260504121346_EntityUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504121346_EntityUpdate.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260504121346_EntityUpdate.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504121346_EntityUpdate.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260504121346_EntityUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:13:47.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Core\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Core\\Application\\Application.csproj",
+              "RelativeToolTip": "Src\\Core\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T04:53:52.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UpdateInventoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:57:07.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20260504100222_SoftDelete.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504100222_SoftDelete.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260504100222_SoftDelete.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504100222_SoftDelete.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260504100222_SoftDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:02:23.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GetInventoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQueryHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:55:55.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20260504080746_Cart.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504080746_Cart.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260504080746_Cart.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504080746_Cart.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260504080746_Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:07:47.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UpdateInventoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Inventory\\Commands\\UpdateInventory\\UpdateInventoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:56:52.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UpdateCartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\UpdateCartItemDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\UpdateCartItemDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\UpdateCartItemDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\UpdateCartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:40:53.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\AddToCartDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\AddToCartDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\AddToCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:40:20.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "GetInventoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQuery.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQuery.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Inventory\\Queries\\GetInventory\\GetInventoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:55:37.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebApi\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T04:15:49.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:50:44.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UpdateInventoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\UpdateInventoryDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\UpdateInventoryDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\UpdateInventoryDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\UpdateInventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:47:37.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "InventoryResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\InventoryResponseDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\InventoryResponseDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\InventoryResponseDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\InventoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:45:25.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:37:55.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20260504043519_NewTable.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504043519_NewTable.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260504043519_NewTable.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260504043519_NewTable.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260504043519_NewTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:35:19.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\DependencyInjection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:44:27.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IECommerceDbContext.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IECommerceDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:48:16.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Services\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\ECommerceDbContext.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Services\\ECommerceDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:48:58.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DependencyInjection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:43:55.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\DependencyInjection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:44:35.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\ECommerceDbContext.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\ECommerceDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T04:16:50.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "GetProductsByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:29:58.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:29:13.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:28:43.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "GetProductsByIdQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:30:24.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:28:15.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "DeleteProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:28:01.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:27:30.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:27:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\UpdateProductDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\UpdateProductDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:11:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\CreateProductDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:11:07.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

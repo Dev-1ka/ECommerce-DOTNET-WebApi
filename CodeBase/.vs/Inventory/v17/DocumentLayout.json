@@ -1,0 +1,684 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\ecommerce.web.host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\ecommerce.web.host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\inventory.web.host.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\inventory.web.host.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\interfaces\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B5B82E-1D6E-4E7B-82EB-402F5FA417A5}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165798B-C25D-4FF5-AD83-C03A8067B545}|Src\\Infrastructures\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructures\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\auth\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\auth\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\InventoryMgmt WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260417084641_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\products\\queries\\getproductbyid\\getproductsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\common\\pagination\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\common\\pagination\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\core\\application\\common\\pagination\\pagedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471AC0C-86C4-44C8-89D7-FEA943A13266}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\common\\pagination\\pagedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\presentation\\ecommerce.web.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CC6AFE-CAEF-4656-82C8-EF7884A7E7DC}|Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.csproj|solutionrelative:src\\presentation\\ecommerce.web.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|c:\\users\\devika.unnikrishnan\\documents\\dot net projects\\ecommerce webapi\\codebase\\src\\infrastructures\\persistence\\migrations\\20260417103457_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C7BDF-C859-4C0B-8A1D-0F76EBAAF368}|Src\\Infrastructures\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructures\\persistence\\migrations\\20260417103457_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:27:39.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:27:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:09:33.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:29:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.Web.Host.csproj",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\ECommerce.Web.Host.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T08:04:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:14:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.Web.Host.http",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.http",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.http",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.http",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Inventory.Web.Host.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-17T08:04:14.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:52:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T11:12:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\ILoggerManager.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\ILoggerManager.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\ILoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T11:11:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:55:58.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-17T11:29:28.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Services\\LoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T11:11:42.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetProductsByIdQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:29:57.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:54:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:04:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetProductsByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:29:46.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-17T11:11:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:26:42.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:26:26.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T08:05:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:28:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:28:12.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Infrastructure\\Identity\\IdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:14:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:16:17.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:07:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260417103457_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260417103457_InitialDB.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructures\\Persistence\\Migrations\\20260417103457_InitialDB.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260417103457_InitialDB.cs",
+              "RelativeToolTip": "Src\\Infrastructures\\Persistence\\Migrations\\20260417103457_InitialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:34:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T08:10:48.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:24:44.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Auth\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:47:37.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:25:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:24:12.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:26:59.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:43:53.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260417084641_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\InventoryMgmt WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260417084641_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\InventoryMgmt WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260417084641_Initial.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\InventoryMgmt WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260417084641_Initial.cs",
+              "RelativeToolTip": "..\\..\\InventoryMgmt WebAPI\\CodeBase\\Src\\Infrastructures\\Persistence\\Migrations\\20260417084641_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:46:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetProductsByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Products\\Queries\\GetProductById\\GetProductsByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:29:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Common\\Pagination\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Common\\Pagination\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Common\\Pagination\\PagedResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Common\\Pagination\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:23:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PagedRequest.cs",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Common\\Pagination\\PagedRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Common\\Pagination\\PagedRequest.cs",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Core\\Application\\Common\\Pagination\\PagedRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Common\\Pagination\\PagedRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:23:00.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Src\\Presentation\\ECommerce.Web.Host\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\devika.unnikrishnan\\Documents\\DOT NET PROJECTS\\ECommerce WebAPI\\CodeBase\\Src\\Presentation\\ECommerce.Web.Host\\appsettings.Development.json",
+              "RelativeToolTip": "Src\\Presentation\\ECommerce.Web.Host\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T08:11:01.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
